@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### sobre mim 👋
+- ola, me chamo isabely kristini lauterio walter 
+- atualmente estudo no colegio estadual civico militar porigot de souza 
+- atualmente estou aprendendo programação no scratch e javascript
+- instragra:isabely_kristini 
+- gosto de anime 
 <!--
 **belzinha2/belzinha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
