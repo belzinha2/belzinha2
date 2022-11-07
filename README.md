@@ -2,7 +2,7 @@
 - ola, me chamo Isabely Kristini Lauterio Walter 
 - atualmente estudo no Colegio Estadual Civico Militar Porigot de Souza 
 - atualmente estou aprendendo programação no scratch e javascript
-- instragra:isabely_kristini 
+- insta:isabely_kristini 
 - :)
 <!--
 **belzinha2/belzinha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
